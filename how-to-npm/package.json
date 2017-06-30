@@ -1,0 +1,21 @@
+{
+  "name": "@dinhthienphuc/how-to-npm",
+  "version": "1.6.9",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is a README.md file which will guide you how to learn something",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workshopper/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/workshopper/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/workshopper/how-to-npm#readme"
+}
